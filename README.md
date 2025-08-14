@@ -1,12 +1,14 @@
 <p align="center">
-  <b>Analisis Sentimen Ulasan Aplikasi Tokopedia Menggunakan IndoBERT</b>
+  <H3 align="center">Analisis Sentimen Ulasan Aplikasi Tokopedia Menggunakan IndoBERT</H3>
 </p>
 
 <p align="center">
-  <i>Faris Iftikhar Alfarisi</i>
+  <strong>Faris Iftikhar Alfarisi</strong>
+</p>
+<p align="center">
+  <i>faris.10122050@mahasiswa.unikom.ac.id</i>| <i>faris.workingspace@gmail.com</i> | <i>@frs.alfrs_</i>
 </p>
 
----
 
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk memahami persepsi pengguna terhadap aplikasi **Tokopedia** melalui analisis sentimen ulasan mereka menggunakan teknologi **Natural Language Processing (NLP)** dan model **IndoBERT**.  
