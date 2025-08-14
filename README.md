@@ -28,12 +28,11 @@ Pendekatan ini diharapkan dapat mengungkap insight berharga tentang pengalaman p
    - Stemming menggunakan **Sastrawi** untuk mengubah kata ke bentuk dasar.
 
 3. **Analisis Sentimen**
-   - Menggunakan model **IndoBERT** (`indobenchmark/indobert-base-p1`) untuk mengklasifikasikan sentimen menjadi **Positif**, **Netral**, dan **Negatif**.
-   - Integrasi skor rating pengguna untuk meningkatkan akurasi pelabelan.
+   Menggunakan model **IndoBERT** (`indobenchmark/indobert-base-p1`) untuk mengklasifikasikan sentimen menjadi **Positif**, **Netral**, dan **Negatif**. dengan menambahkan integrasi skor rating pengguna untuk meningkatkan akurasi pelabelan yang memberikan bobot lebih pada tensor yang dihasilkan dri confidence_score.
 
 4. **Visualisasi**
    <img width="1589" height="433" alt="image" src="https://github.com/user-attachments/assets/02480cc0-3d17-4730-a010-864745c81004" />
-
+   Visualisasi Wordcloud Sentimen Positif & Negatif
 
 5. **Eksperimen Clustering**
    - Menggunakan **K-Means** dan **K-Medoids**.
@@ -51,9 +50,9 @@ Pendekatan ini diharapkan dapat mengungkap insight berharga tentang pengalaman p
 
 
 ## Kesimpulan
-Proyek ini membangun pipeline analisis sentimen yang komprehensif untuk ulasan aplikasi Tokopedia.  
-Hasilnya menunjukkan sebagian besar pengguna puas, namun ada ruang untuk perbaikan, terutama dalam **pengiriman** dan **penanganan keluhan**.  
-Eksperimen clustering juga membuka peluang analisis lebih mendalam tentang pola ulasan pengguna.
+Proyek ini berhasil menyusun alur analisis sentimen yang komprehensif untuk memahami ribuan ulasan aplikasi Tokopedia. Hasilnya mengungkap cerita yang menarik - meskipun mayoritas pengguna menyampaikan kepuasan melalui ulasan positif, terdapat beberapa catatan penting yang layak diperhatikan, khususnya terkait proses pengiriman yang sering menjadi sorotan dan mekanisme penanganan keluhan yang masih perlu penyempurnaan.
+
+Yang lebih menarik lagi, melalui eksperimen clustering, kami menemukan pola-pola tersembunyi dalam data ulasan yang membuka peluang baru untuk analisis lebih mendalam. Pendekatan ini tidak hanya membantu memahami sentimen secara umum, tetapi juga memungkinkan identifikasi kelompok-kelompok spesifik pengguna dengan karakteristik unik, yang bisa menjadi dasar untuk pengembangan fitur yang lebih tepat sasaran di masa depan.
 
 
 ## Teknologi yang Digunakan
