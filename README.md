@@ -68,4 +68,6 @@ Yang lebih menarik lagi, melalui eksperimen clustering, kami menemukan pola-pola
 ---
 
 ## Catatan
-Proyek ini dibuat untuk tugas mata kuliah **Supply Chain Management**, Program Studi Teknik Informatika, **Universitas Komputer Indonesia**.
+Proyek ini dibuat untuk tugas mata kuliah **Pembelajaran Mesin**, Program Studi Teknik Informatika, **Universitas Komputer Indonesia**.
+
+Faris Iftikhar Alfarisi
