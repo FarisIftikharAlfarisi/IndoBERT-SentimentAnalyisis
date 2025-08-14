@@ -6,7 +6,7 @@
   <strong>Faris Iftikhar Alfarisi</strong>
 </p>
 <p align="center">
-  <i>faris.10122050@mahasiswa.unikom.ac.id</i>| <i>faris.workingspace@gmail.com</i> | <i>@frs.alfrs_</i>
+  <i>faris.10122050@mahasiswa.unikom.ac.id</i> <br> <i>faris.workingspace@gmail.com</i> <br><i>@frs.alfrs_</i>
 </p>
 
 
